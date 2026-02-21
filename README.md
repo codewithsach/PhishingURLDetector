@@ -21,4 +21,4 @@ This project detects phishing websites based on their URLs using machine learnin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PhishingURLDetector.git
+   git clone https://github.com/codewithsach/PhishingURLDetector.git
